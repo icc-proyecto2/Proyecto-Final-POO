@@ -15,6 +15,10 @@
 #include <vector>
 using namespace std;
 
+//-------------------------------------------------------
+//Integrantes: Diego Herrera - Jose Gil - Joaquin Padilla
+//-------------------------------------------------------
+
 int main() {
 
     // declaracion de variables "visuales"
@@ -119,3 +123,5 @@ int main() {
 
     return 0;
 }
+
+//Integrantes: Diego Herrera - Jose Gil - Joaquin Padilla
